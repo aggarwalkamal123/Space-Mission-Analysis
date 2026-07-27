@@ -150,3 +150,11 @@ Cleaned & Tableau-Ready Data
 Interactive Tableau Dashboard
     ↓
 Insights & Data Storytelling
+
+---
+
+## 🎯 Conclusion
+
+The **Interactive Space Mission Analytics Dashboard** transforms historical space mission data into meaningful and interactive visual insights. By combining **Python-based EDA, data preprocessing, feature engineering, and Tableau visualization**, the project provides a comprehensive view of global space exploration, mission success, company performance, rocket costs, geographical distribution, and launch trends.
+
+Overall, the project demonstrates how data analytics and visualization can turn complex historical data into clear insights that support better understanding of global space missions and their evolution over time.
