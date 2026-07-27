@@ -28,8 +28,7 @@ The project transforms raw historical data into meaningful insights through **Py
 **Dataset:** Space Missions (1957–2022)  
 **Records:** 4,323 space missions  
 **Time Period:** 1957–2022  
-**Source:** Kaggle  
-**Author:** Saikat Panja
+**Source:** Kaggle
 
 The dataset contains information related to:
 
@@ -43,7 +42,7 @@ The dataset contains information related to:
 - Mission Outcomes
 
 🔗 **Dataset Source:**  
-https://www.kaggle.com/datasets/saikat026/space-missions
+https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957 
 
 ---
 
